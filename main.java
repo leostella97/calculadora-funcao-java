@@ -1,5 +1,5 @@
+import java.util.Scanner; // importa o scanner para leitura de teclado
 
-import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         
@@ -26,3 +26,4 @@ public class main {
         lerEntrada.close();
     }
 }
+
