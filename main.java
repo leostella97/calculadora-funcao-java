@@ -17,7 +17,7 @@ public class main {
         double valorIncognita;
         valorIncognita = lerEntrada.nextDouble();
 
-        // usando o cálculo f(x)=total+fixo.x
+        // usando o cálculo f(x)=total+fixo*x
         double funcao = valorTotal + valorFixo * valorIncognita;
 
         // mostrando o resultado da função
