@@ -6,8 +6,7 @@ public class main {
         // entrada dos números
         System.out.println("###Cálculadora de função###\nDigite seu nome: ");
         Scanner lerEntrada = new Scanner(System.in); // ler teclado
-        String valorNome;
-        nome = lerEntrada.nextLine();
+        String valorNome = lerEntrada.nextLine();
         System.out.print("Digite o valor total: ");
         double valorTotal;
         valorTotal = lerEntrada.nextDouble();
